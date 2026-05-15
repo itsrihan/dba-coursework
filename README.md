@@ -59,7 +59,7 @@ This notebook contains SQL queries executed within the R environment using sqldf
 
 ## R Analytics and Visualisation
 Notebook:
-`R_Analytics.ipynb.ipynb`
+`R_Analytics.ipynb`
 
 This notebook contains graphical analysis and operational trend visualisation using ggplot2 and dplyr. The section focuses on:
 - delivery reliability
