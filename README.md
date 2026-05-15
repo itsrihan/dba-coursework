@@ -45,7 +45,7 @@ The project uses multiple operational datasets representing different areas of N
 
 ## SQL in R Analysis
 Notebook:
-`sql_in_r_analysis.ipynb`
+`SQL_in_R.ipynb`
 
 This notebook contains SQL queries executed within the R environment using sqldf. The analysis focuses on:
 - delivery performance
@@ -59,7 +59,7 @@ This notebook contains SQL queries executed within the R environment using sqldf
 
 ## R Analytics and Visualisation
 Notebook:
-`r_analytics_visualisation.ipynb`
+`R_Analytics.ipynb.ipynb`
 
 This notebook contains graphical analysis and operational trend visualisation using ggplot2 and dplyr. The section focuses on:
 - delivery reliability
@@ -88,7 +88,7 @@ This notebook uses pandas and matplotlib for:
 
 ## MongoDB Analysis and Optimisation
 Notebook:
-`mongodb_analysis_and_optimisation.ipynb`
+`MongoDB_development.ipynb`
 
 This notebook demonstrates:
 - MongoDB Atlas implementation
